@@ -15,10 +15,12 @@ import javax.swing.JButton;
 public class Casilla {
     JButton A;
     int B;
+    int C;
 
     public Casilla() {
         A=new JButton();
         B=0;
+        C=10;
     }
     
 }
